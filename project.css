@@ -1,0 +1,17 @@
+.card{
+    width: 400px;
+    position: relative;
+    left: 50px;
+    height: 300px;
+    margin-right: 20px;
+    margin-top: 10px;
+    background-color: #283618;
+    color: #dad7cd;
+}
+
+.btn {
+    position: absolute;
+    top: 225px;
+    background-color: #a3b18a;
+}
+
