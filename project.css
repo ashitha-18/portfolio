@@ -5,7 +5,7 @@
     height: 300px;
     margin-right: 20px;
     margin-top: 10px;
-    background-color: #198754;
+    background-color: #283618;
     color: #dad7cd;
 }
 
@@ -13,9 +13,4 @@
     position: absolute;
     top: 225px;
     background-color: #a3b18a;
-}
-
-hr{
-    positive:relative;
-    top:13px;
 }
