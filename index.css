@@ -3,6 +3,10 @@
     margin-left: 40px;
     
 }
+
+.nav-link{
+    color: #66861b;
+}
 .col-sm-3{
     width: 200px;
     height: 310px;
@@ -48,31 +52,61 @@ img{
     color: #283618;
 }
 
+.link :hover{
+    color: #9d9b0c;
+}
 
 #about{
     position: relative;
     top: 100px;
+    height: 100vh;
 }
 
+.left{
+    margin-left: 100px;
+}
 .heading{
     font-size: 50px;
 
 }
 
+.vl{
+    border-left: 3px solid #66861b;
+    height: 70%;
+    position: absolute;
+    margin-top: 100px;
+    left: 70%;
+    margin-left: -3px;
+    top: 0;
+}
+.skills{
+    position: relative;
+    bottom: 200px;
+    margin-right: 200px;
+}
 .text{
     font-size: 20px;
     margin: 20px;
 }
 
+.right{
+    position: relative;
+    left: 663px;
+    width: 95px;
+}
 .btn{
     position: relative;
-    top: 100px;
-    background-color: #3c4f0f;
+    top: 150px;
+    margin-left: 100px;
 }
+.btn :hover{
+    color: #ffffff;    
+}
+
 #contact{
     position: relative;
-    top: 500px;
-
+    top: 100px;
+    height: 30vh;
 }
 
 .contact-list{
@@ -84,7 +118,9 @@ img{
     margin: 60px;
     color: #283618;
 }
-
+.link2 :hover{
+    color: #9d9b0c;
+}
 .pro{
     text-decoration: none;
     color: #000000;
