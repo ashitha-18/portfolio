@@ -135,7 +135,7 @@ img{
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     
     .skills{
         position: relative;
@@ -143,10 +143,10 @@ img{
     }
     #contact{
         position: relative;
-        top: 300px;
+        top: 370px;
     }
     .vl{
-        border-left: 3px solid #FEFAE0;
+        border-left: 3px solid transparent;
     }
 
     .nav-item{
@@ -161,5 +161,8 @@ img{
         font-size: 20px;
         position: relative;
        left: 30px;
+    }
+    .link2{
+        margin:10px;
     }
 }
