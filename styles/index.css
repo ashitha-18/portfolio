@@ -92,7 +92,7 @@
 
 .vl{
     border-left: 3px solid #66861b;
-    height: 140%;
+    height: 100%;
     position: absolute;
     margin-top: 100px;
     left: 74%;
@@ -100,6 +100,10 @@
     top: 0;
 }
 
+.link-text{
+    color: #283618;
+    text-underline-offset: 3px;
+}
 
 .right{
     width: 95px;
