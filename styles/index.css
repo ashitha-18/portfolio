@@ -11,6 +11,27 @@
     color: #283618;
     font-size: 20px;
 }
+
+.heading {
+    text-align: center;
+    margin-top: 50px;
+    color: #283618;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 20px;
+    color: #283618;
+}
+
+.photo {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+}
+
+
 .col-sm-3{
     width: 200px;
     height: 310px;
@@ -26,14 +47,6 @@
     width: 100%;
 }
 
-
-img{
-    position: relative;
-    top: -15px;
-    left: -15px;
-    width: 300px;
-    height: 310px;
-}
 
 .big{
     font-size: 100px;
