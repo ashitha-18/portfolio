@@ -78,12 +78,7 @@
     top: 100px;
     height: 100vh;
 }
-.col-sm-6{
-    width: 60%;
-    height: 100vh;
-    background-color: #FEFAE0;
-    color:#283618 ;
-}
+
 
 .heading{
     font-size: 50px;
@@ -154,14 +149,20 @@
 
 @media screen and (max-width: 600px) {
     
+    
     .skills{
         position: relative;
         top: 50px;
     }
+    .res-text{
+        width: 460px;
+    }
+
     #contact{
         position: relative;
-        top: 370px;
+        top: 1050px;
     }
+
     .vl{
         border-left: 3px solid transparent;
     }
